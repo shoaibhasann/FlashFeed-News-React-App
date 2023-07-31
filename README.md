@@ -27,7 +27,7 @@ Please note that the NewsAPI used in this app requires an API key, and this demo
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/flashfeed-news-react-app.git
+git clone https://github.com/shoaibhasann/FlashFeed-News-React-App.git
 ```
 
 2. Install dependencies.
